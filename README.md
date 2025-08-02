@@ -1,5 +1,4 @@
 <h1>Welcome 👋, I'm Rachael Martinez-Jones</h1>
-<img src="https://avatars.githubusercontent.com/u/163369099?v=4" alt=" Profile Picture" class="avatar avatar-user width-full border color-bg-default">
 
 <img src="https://komarev.com/ghpvc/?username=rachaelrmj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"></p>
 
