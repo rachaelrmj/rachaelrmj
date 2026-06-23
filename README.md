@@ -40,11 +40,22 @@ Link to project: https://github.com/rachaelrmj/Trip-Snapshot-Website
 <h3><strong>805 Cinema Theater Website</strong></h3>
 <p>A responsive web application that simulates a modern movie theater reservation experience. The project aimed to create an engaging platform where users could browse movies, view trailers, explore showtimes, and interact with theater services while demonstrating advanced front-end development techniques.</p>
 
-<h4>Concept Utilization</h4>
+<h4>Skills Demonstrated</h4>
 <ul>
-<li></li>
-<li></li>
+<li>HTML5, CSS3, and JavaScript Development</li>
+<li>API Integration and Data Retrieval</li>
+<li>Client-Side State Management (LocalStorage & SessionStorage)</li>
+<li>DOM Manipulation and Event Handling</li>
+<li>User Experience (UX) Design</li>
+<li>Accessibility (WCAG Compliance)</li>
+<li>CSS Grid and Flexbox Layouts</li>
+<li>Form Validation and Data Processing</li>
+<li>Cross-Browser Compatibility Testing</li>
+<li>Problem Solving and Debugging</li>
+<li>Frontend Application Architecture</li>
 </ul>
+
+https://github.com/user-attachments/assets/40792819-a4c5-449e-a21c-41896a32178d
 
 Link to project: https://github.com/rachaelrmj/8o5-Cinema-Theater-Website
 
