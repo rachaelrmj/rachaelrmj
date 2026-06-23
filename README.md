@@ -19,10 +19,20 @@
 <h3><strong>Trip Snapshot - Travel Planning Website</strong></h3>
 <p>A responsive travel planning website for organizing trips, exploring destinations, and creating an itinerary tailored to the individual user’s needs. This project was created in order to deal with the frequent issue that the majority of tourists face when using different websites to explore their destinations.</p>
 
-<h4>Concept Utilization</h4>
+<h4>Skills Demonstrated</h4>
 <ul>
-<li></li>
-<li></li>
+<li>Responsive Web Design (Mobile-First Development)</li>
+<li>HTML5, CSS3, and JavaScript Development</li>
+<li>API Integration and Data Retrieval</li>
+<li>Client-Side State Management (LocalStorage & SessionStorage)</li>
+<li>DOM Manipulation and Event Handling</li>
+<li>User Experience (UX) Design</li>
+<li>Accessibility (WCAG Compliance)</li>
+<li>CSS Grid and Flexbox Layouts</li>
+<li>Form Validation and Data Processing</li>
+<li>Cross-Browser Compatibility Testing</li>
+<li>Problem Solving and Debugging</li>
+<li>Frontend Application Architecture</li>
 </ul>
 
 Link to project: https://github.com/rachaelrmj/Trip-Snapshot-Website
