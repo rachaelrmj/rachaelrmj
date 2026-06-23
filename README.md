@@ -1,3 +1,5 @@
+
+
 <h1>Welcome 👋, I'm Rachael Martinez-Jones</h1>
 
 <img src="https://komarev.com/ghpvc/?username=rachaelrmj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"></p>
@@ -53,9 +55,7 @@ Link to project: https://github.com/rachaelrmj/8o5-Cinema-Theater-Website
 <li>Software Engineering Fundamentals</li>
 </ul>
 
-<video src="https://github.com/rachaelrmj/Loan-Calculator/blob/main/calculator-recording.mov" controls width="640" height="360">
-Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/56f4b4c4-3561-4dbe-9493-83f8bc29bbff
 
 Link to project: 
 
