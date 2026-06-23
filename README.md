@@ -16,11 +16,48 @@
 
 <h3><strong>Trip Snapshot - Travel Planning Website</strong></h3>
 <p>A responsive travel planning website for organizing trips, exploring destinations, and creating an itinerary tailored to the individual user’s needs. This project was created in order to deal with the frequent issue that the majority of tourists face when using different websites to explore their destinations.</p>
+
+<h4>Concept Utilization</h4>
+<ul>
+<li></li>
+<li></li>
+</ul>
+
 Link to project: https://github.com/rachaelrmj/Trip-Snapshot-Website
 
 <h3><strong>805 Cinema Theater Website</strong></h3>
 <p>A responsive web application that simulates a modern movie theater reservation experience. The project aimed to create an engaging platform where users could browse movies, view trailers, explore showtimes, and interact with theater services while demonstrating advanced front-end development techniques.</p>
+
+<h4>Concept Utilization</h4>
+<ul>
+<li></li>
+<li></li>
+</ul>
+
 Link to project: https://github.com/rachaelrmj/8o5-Cinema-Theater-Website
+
+<h3><strong>Loan Calculator | Go (Golang)</strong></h3>
+<p>Developed a command-line financial calculator in Go that performs loan analysis and interest calculations using industry-standard financial formulas. The application features a menu-driven user interface, robust input validation, and modular package architecture. Users can calculate monthly payments, simple and compound interest, total loan costs, and other key financial metrics. This project demonstrates proficiency in Go programming, software design principles, mathematical modeling, and user-focused application development.</p>
+
+<h4>Skills Demonstrated</h4>
+<ul>
+<li>Go Programming</li>
+<li>Packages and modular design</li>
+<li>Structs and methods</li>
+<li>User input validation</li>
+<li>Mathematical formulas</li>
+<li>Financial calculations</li>
+<li>Menu-driven interfaces</li>
+<li>Error handling</li>
+<li>Loops and control flow</li>
+<li>Software Engineering Fundamentals</li>
+</ul>
+
+<video src="" controls width="640" height="360">
+Your browser does not support the video tag.
+</video>
+
+Link to project: 
 
 <h3>Check Out My Stats Below!</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=rachaelrmj&show_icons=true&locale=en" alt="Rachael's GitHub Stats"></p>
