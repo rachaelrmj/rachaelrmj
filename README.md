@@ -53,7 +53,7 @@ Link to project: https://github.com/rachaelrmj/8o5-Cinema-Theater-Website
 <li>Software Engineering Fundamentals</li>
 </ul>
 
-<video src="calculator-recording.mov" controls width="640" height="360">
+<video src="https://github.com/rachaelrmj/Loan-Calculator/blob/main/calculator-recording.mov" controls width="640" height="360">
 Your browser does not support the video tag.
 </video>
 
