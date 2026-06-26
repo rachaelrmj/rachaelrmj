@@ -57,7 +57,7 @@ Link to project: https://github.com/rachaelrmj/Trip-Snapshot-Website
 
 https://github.com/user-attachments/assets/40792819-a4c5-449e-a21c-41896a32178d
 
-Link to project: https://github.com/rachaelrmj/8o5-Cinema-Theater-Website
+Link to project: https://rachaelrmj.github.io/Trip-Snapshot-Website/
 
 <h3><strong>Loan Calculator | Go (Golang)</strong></h3>
 <p>Developed a command-line financial calculator in Go that performs loan analysis and interest calculations using industry-standard financial formulas. The application features a menu-driven user interface, robust input validation, and modular package architecture. Users can calculate monthly payments, simple and compound interest, total loan costs, and other key financial metrics. This project demonstrates proficiency in Go programming, software design principles, mathematical modeling, and user-focused application development.</p>
