@@ -35,7 +35,7 @@
 <li>Frontend Application Architecture</li>
 </ul>
 
-Link to project: https://github.com/rachaelrmj/Trip-Snapshot-Website
+Link to project: https://rachaelrmj.github.io/Trip-Snapshot-Website/
 
 <h3><strong>805 Cinema Theater Website</strong></h3>
 <p>A responsive web application that simulates a modern movie theater reservation experience. The project aimed to create an engaging platform where users could browse movies, view trailers, explore showtimes, and interact with theater services while demonstrating advanced front-end development techniques.</p>
