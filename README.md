@@ -8,7 +8,7 @@
 
 <p>I developed dreams of becoming a web developer in high school and has since been pursuing my dream while serving my country in the military. In my spare time, I work on developing my coding skills and gain heighten familiarity with languages such as Go, Java, HTML, CSS, Javascript and SQL. When I'm not dabbling in coding, I am spending time with my wife and 5 year old Maltipoo or building a puzzle or Lego set.</p>
 
-<h2>Contact Me:</h2>rrmart15@asu.edu
+<h2>Contact Me:</h2>rachaelr.mj@gmail.com
 
 <h2>Follow My Work:</h2>
 <p><a href="https://codepen.io/@rachaelrmj">Codepen</a>
