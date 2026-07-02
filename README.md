@@ -35,6 +35,8 @@
 <li>Frontend Application Architecture</li>
 </ul>
 
+https://github.com/user-attachments/assets/1e5cc9e6-9924-4529-bc56-67bbfeed1002
+
 Link to project: https://rachaelrmj.github.io/Trip-Snapshot-Website/
 
 <h3><strong>805 Cinema Theater Website</strong></h3>
