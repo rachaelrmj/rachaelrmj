@@ -8,13 +8,52 @@
 
 <p>I developed dreams of becoming a web developer in high school and has since been pursuing my dream while serving my country in the military. In my spare time, I work on developing my coding skills and gain heighten familiarity with languages such as Go, Java, HTML, CSS, Javascript and SQL. When I'm not dabbling in coding, I am spending time with my wife and 5 year old Maltipoo or building a puzzle or Lego set.</p>
 
-<h2>Contact Me:</h2>rachaelr.mj@gmail.com
+<h2>Contact Me</h2>contact@rmjdesigns.com
 
-<h2>Follow My Work:</h2>
+<h2>Follow My Work</h2>
 <p><a href="https://codepen.io/@rachaelrmj">Codepen</a>
   <a href="https://www.behance.net/rrmart15@asu.edu">Behance</a></p>
 
-<h2>Projects:</h2>
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+<h3>Front-End</h3>
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+</td>
+
+<td valign="top" width="33%">
+
+<h3>Back-End</h3>
+
+- Go
+- REST APIs
+- JSON
+- AJAX
+- Local Storage
+
+</td>
+
+<td valign="top" width="33%">
+
+<h3>Tools</h3>
+
+- Git
+- GitHub
+- VS Code
+- Figma
+
+</td>
+</tr>
+</table>
+
+<h2>Projects</h2>
 
 <h3><strong>Trip Snapshot - Travel Planning Website</strong></h3>
 <p>A responsive travel planning website for organizing trips, exploring destinations, and creating an itinerary tailored to the individual user’s needs. This project was created in order to deal with the frequent issue that the majority of tourists face when using different websites to explore their destinations.</p>
@@ -38,7 +77,7 @@
 https://github.com/user-attachments/assets/1e5cc9e6-9924-4529-bc56-67bbfeed1002
 
 Link to project: https://rachaelrmj.github.io/Trip-Snapshot-Website/
-
+##
 <h3><strong>805 Cinema Theater Website</strong></h3>
 <p>A responsive web application that simulates a modern movie theater reservation experience. The project aimed to create an engaging platform where users could browse movies, view trailers, explore showtimes, and interact with theater services while demonstrating advanced front-end development techniques.</p>
 
@@ -60,7 +99,7 @@ Link to project: https://rachaelrmj.github.io/Trip-Snapshot-Website/
 https://github.com/user-attachments/assets/40792819-a4c5-449e-a21c-41896a32178d
 
 Link to project: https://rachaelrmj.github.io/8o5-Cinema-Theater-Website/
-
+##
 <h3><strong>Loan Calculator | Go (Golang)</strong></h3>
 <p>Developed a command-line financial calculator in Go that performs loan analysis and interest calculations using industry-standard financial formulas. The application features a menu-driven user interface, robust input validation, and modular package architecture. Users can calculate monthly payments, simple and compound interest, total loan costs, and other key financial metrics. This project demonstrates proficiency in Go programming, software design principles, mathematical modeling, and user-focused application development.</p>
 
@@ -81,6 +120,6 @@ Link to project: https://rachaelrmj.github.io/8o5-Cinema-Theater-Website/
 https://github.com/user-attachments/assets/56f4b4c4-3561-4dbe-9493-83f8bc29bbff
 
 Link to project: https://github.com/rachaelrmj/Loan-Calculator
-
+##
 <h3>Check Out My Stats Below!</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=rachaelrmj&show_icons=true&locale=en" alt="Rachael's GitHub Stats"></p>
