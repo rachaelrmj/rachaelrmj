@@ -120,6 +120,3 @@ Link to project: https://rachaelrmj.github.io/8o5-Cinema-Theater-Website/
 https://github.com/user-attachments/assets/56f4b4c4-3561-4dbe-9493-83f8bc29bbff
 
 Link to project: https://github.com/rachaelrmj/Loan-Calculator
-##
-<h3>Check Out My Stats Below!</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=rachaelrmj&show_icons=true&locale=en" alt="Rachael's GitHub Stats"></p>
